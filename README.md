@@ -1,1 +1,1 @@
-# Retina-Network-Model
+# RetinaNetworkModel
